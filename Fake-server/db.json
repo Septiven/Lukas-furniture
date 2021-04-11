@@ -1,0 +1,415 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "phone": "0812345678",
+      "email": "lukas@gmail.com",
+      "username": "Lukas",
+      "password": "0123123",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "phone": "087623483",
+      "email": "septiven@gmail.com",
+      "username": "Septiven",
+      "password": "9026373",
+      "role": "user"
+    },
+    {
+      "phone": "",
+      "email": "agus@yahoo.id",
+      "username": "",
+      "password": "",
+      "roles": "user",
+      "id": 3
+    },
+    {
+      "phone": "0137187391",
+      "email": "",
+      "username": "",
+      "password": "",
+      "roles": "user",
+      "id": 4
+    },
+    {
+      "phone": "081234556",
+      "email": "",
+      "username": "",
+      "password": "",
+      "roles": "user",
+      "id": 5
+    },
+    {
+      "phone": "",
+      "email": "ahsfask@gmail.com",
+      "username": "",
+      "password": "",
+      "roles": "user",
+      "id": 6
+    },
+    {
+      "phone": "092742918",
+      "email": "",
+      "username": "hello",
+      "password": "helloworld",
+      "roles": "user",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Sofa 1",
+      "brand": "Preggo",
+      "category": "Sofa",
+      "stock": 26,
+      "price": 2500000,
+      "diskon": 20,
+      "weight": 350,
+      "image1": "https://res.cloudinary.com/ruparupa-com/image/upload/f_auto,q_auto/l_2.1:c5f05d:8cb583/f_auto,q_auto:eco/v1600787163/Products/10120262_1.jpg",
+      "image2": "https://res.cloudinary.com/ruparupa-com/image/upload/f_auto,q_auto/l_2.1:c5f05d:8cb583/f_auto,q_auto:eco/v1600787985/Products/10120262_4.jpg",
+      "image3": "https://res.cloudinary.com/ruparupa-com/image/upload/f_auto,q_auto/l_2.1:c5f05d:8cb583/f_auto,q_auto:eco/v1600786833/Products/10120262_3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sofa 2",
+      "brand": "Ikea",
+      "category": "Sofa",
+      "stock": 18,
+      "price": 2000000,
+      "diskon": 25,
+      "weight": 450,
+      "image1": "https://lh3.googleusercontent.com/u2I-y1Uk8ysHdJCzq48hgNgEiMJk5591t9Utupw7gx_SRM-sfyjoXxBxPm4axt7LJYp5hVslfXct0kGT88PHxzM8wzlUm9SuZr1W90F_qVjiyep8jBhz1s0XWLvt8qOgvnKhW18k",
+      "image2": "https://furnibel.com/wp-content/uploads/2019/01/kursi-tamu-minimalis-4.jpg",
+      "image3": "https://m2fabelio.imgix.net/catalog/product/cache/small_image/414x214/beff4985b56e3afdbeabfc89641a4582/m/a/manu_-_blue.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sofa 3",
+      "brand": "Ikea",
+      "category": "Sofa",
+      "stock": 26,
+      "price": 3000000,
+      "diskon": 30,
+      "weight": 550,
+      "image1": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//109/MTA-8939791/modesty_sofa__kursi_sofa_minimalis_2_seater_retro_jumbo_full01_remcpfuv.jpg",
+      "image2": "https://cdn.gudangfurniture.com/assets/products/Sofa-GF-Series-1.jpeg",
+      "image3": "https://ecs7.tokopedia.net/img/cache/500-square/product-1/2020/7/21/1151920/1151920_4eeb159b-3d14-4579-a389-a8dc20a2ac91_1000_1000.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sofa 4",
+      "brand": "Preggo",
+      "category": "Sofa",
+      "stock": 15,
+      "price": 1500000,
+      "diskon": 20,
+      "weight": 350,
+      "image1": "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/7/5/9019346/9019346_019ca40c-62c5-44d5-8d6b-398db791e226_750_750.jpg",
+      "image2": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/5/29/bf9d3460-1548-48fd-af46-996be850ecf3.jpg",
+      "image3": "https://cf.shopee.co.id/file/a5effe7771081fe56a60717ef62c2d35"
+    },
+    {
+      "id": 5,
+      "name": "Sofa 5",
+      "brand": "Ikea",
+      "category": "Sofa",
+      "stock": 19,
+      "price": 2500000,
+      "diskon": 25,
+      "weight": 250,
+      "image1": "https://cdn11.bigcommerce.com/s-zllqv0a9td/images/stencil/1280w/attribute_rule_images/25638_source_1594813188.jpg",
+      "image2": "https://hnsfpau.imgix.net/5/images/detailed/129/Storm-Sofa-Bed.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress",
+      "image3": "https://topsdecor.com/wp-content/uploads/2019/03/clic-clac-sofa-bed-8.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Meja 1",
+      "brand": "Ikea",
+      "category": "Meja",
+      "stock": 60,
+      "price": 1000000,
+      "diskon": 25,
+      "weight": 100,
+      "image1": "https://ae01.alicdn.com/kf/HTB1NijGRNnaK1RjSZFBq6AW7VXa9/Kayu-Solid-Jepang-Malas-Tatami-Meja-Kopi-untuk-Ruang-Tamu-Snack-Laptop-Sudut-Meja-Di-Rumah.jpg_50x50.jpg_.webp",
+      "image2": "https://ae01.alicdn.com/kf/HTB1w4YlRG6qK1RjSZFmq6x0PFXaZ/Kayu-Solid-Jepang-Malas-Tatami-Meja-Kopi-untuk-Ruang-Tamu-Snack-Laptop-Sudut-Meja-Di-Rumah.jpg_50x50.jpg_.webp",
+      "image3": "https://ae01.alicdn.com/kf/HTB1VCbgRSzqK1RjSZFHq6z3CpXa0/Kayu-Solid-Jepang-Malas-Tatami-Meja-Kopi-untuk-Ruang-Tamu-Snack-Laptop-Sudut-Meja-Di-Rumah.jpg_50x50.jpg_.webp"
+    },
+    {
+      "id": 7,
+      "name": "Meja 2",
+      "brand": "Preggo",
+      "category": "Meja",
+      "stock": 25,
+      "price": 1500000,
+      "diskon": 10,
+      "weight": 150,
+      "image1": "https://id-test-11.slatic.net/p/d5f014eb70e7f14fb1aa8fbfffb1a996.jpg",
+      "image2": "https://lh3.googleusercontent.com/proxy/AX13myzQugdLIP8opbNVcVPrQgfbkwn6waOMK6jCtyQnldW-CQy_vAJDg1MBCwBsCNLQzlbHKy_xSBozrWyEGbWaR_auZvq9-xWPzfoVKqc",
+      "image3": "https://s1.bukalapak.com/img/17836857522/s-194-194/2020-06-10T11%3A20%3A47%2B07%3A00.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Meja 3",
+      "brand": "Foshan",
+      "category": "Meja",
+      "stock": 54,
+      "price": 2500000,
+      "diskon": 15,
+      "weight": 125,
+      "image1": "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/22/f063a565-1054-4698-9654-3a1ea15c4e97.jpg.webp?ect=4g",
+      "image2": "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/25/b5842d50-bdb4-4223-a699-bafc6ded9368.jpg.webp?ect=4g",
+      "image3": "https://ecs7.tokopedia.net/img/cache/200-square/bjFkPX/2020/12/30/03dbc27e-52f1-42c8-9c9d-f3f1df8f43ab.jpg"
+    },
+    {
+      "id": 9,
+      "name": " Meja 4",
+      "brand": "Ikea",
+      "category": "Meja",
+      "stock": 55,
+      "price": 1500000,
+      "diskon": 35,
+      "weight": 200,
+      "image1": "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/1/15/93388e77-0cd0-4424-94ba-4461103c0c5c.jpg.webp?ect=4g",
+      "image2": "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/1/15/19051932-f3f5-4338-b8e1-169825471ed7.jpg.webp?ect=4g",
+      "image3": "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/1/15/9bebb2bf-41e1-4710-9f14-d8f460b80f23.jpg.webp?ect=4g"
+    },
+    {
+      "id": 10,
+      "name": "Meja 5",
+      "brand": "Ikea",
+      "category": "Meja",
+      "stock": 35,
+      "price": 2000000,
+      "diskon": 25,
+      "weight": 140,
+      "image1": "https://images.tokopedia.net/img/cache/100-square/product-1/2020/3/4/79297099/79297099_698f7aba-df03-437f-8aea-45dd810e0f6c_1200_1200.webp?ect=4g",
+      "image2": "https://images.tokopedia.net/img/cache/100-square/product-1/2020/3/4/79297099/79297099_eeaa77a2-ba18-4301-aacd-a450690d5278_1200_1200.webp?ect=4g",
+      "image3": "https://ecs7.tokopedia.net/img/cache/200-square/attachment/2020/7/18/inv/inv_98d44de8-04ec-4b85-a00c-4abf2068e0f9.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Kabinet 1",
+      "brand": "Preggo",
+      "category": "Kabinet",
+      "stock": 25,
+      "price": 2000000,
+      "diskon": 25,
+      "weight": 550,
+      "image1": "https://f1-styx.imgix.net/catalogue/NRA-372626.jpg?w=960&h=480&fit=fillmax&bg=ffffff&auto=format",
+      "image2": "https://f1-styx.imgix.net/catalogue/NRA-372626_2.jpg?w=280&h=140&fit=fillmax&bg=ffffff&auto=format",
+      "image3": "https://f1-styx.imgix.net/catalogue/NRA-372626_5.jpg?w=280&h=140&fit=fillmax&bg=ffffff&auto=format"
+    },
+    {
+      "id": 12,
+      "name": "Kabinet 2",
+      "brand": "Ikea",
+      "category": "Kabinet",
+      "stock": 45,
+      "price": 2500000,
+      "diskon": 25,
+      "weight": 850,
+      "image1": "https://f1-styx.imgix.net/catalogue/NRA-377055.jpg?w=960&h=480&fit=fillmax&bg=ffffff&auto=format",
+      "image2": "https://f1-styx.imgix.net/catalogue/NRA-377055_8.jpg?w=280&h=140&fit=fillmax&bg=ffffff&auto=format",
+      "image3": "https://f1-styx.imgix.net/catalogue/NRA-377055_9.jpg?w=280&h=140&fit=fillmax&bg=ffffff&auto=format"
+    },
+    {
+      "id": 13,
+      "name": "Kabinet 3",
+      "brand": "Preggo",
+      "category": "Kabinet",
+      "stock": 55,
+      "price": 3000000,
+      "diskon": 25,
+      "weight": 800,
+      "image1": "https://f1-styx.imgix.net/catalogue/NRA-384459.jpg?w=960&h=480&fit=fillmax&bg=ffffff&auto=format",
+      "image2": "https://f1-styx.imgix.net/catalogue/NRA-384459_2.jpg?w=960&h=480&fit=fillmax&bg=ffffff&auto=format",
+      "image3": "https://f1-styx.imgix.net/catalogue/NRA-384459_10.jpg?w=280&h=140&fit=fillmax&bg=ffffff&auto=format"
+    },
+    {
+      "id": 14,
+      "name": "Kabinet 4",
+      "brand": "Ikea",
+      "category": "Kabinet",
+      "stock": 65,
+      "price": 4000000,
+      "diskon": 25,
+      "weight": 750,
+      "image1": "https://f1-styx.imgix.net/catalogue/NRA-375148.jpg?w=960&h=480&fit=fillmax&bg=ffffff&auto=format",
+      "image2": "https://f1-styx.imgix.net/catalogue/NRA-375148_2.jpg?w=960&h=480&fit=fillmax&bg=ffffff&auto=format",
+      "image3": "https://f1-styx.imgix.net/catalogue/NRA-375148_8.jpg?w=960&h=480&fit=fillmax&bg=ffffff&auto=format"
+    },
+    {
+      "id": 15,
+      "name": "Kabinet 5",
+      "brand": "Ikea",
+      "category": "Kabinet",
+      "stock": 55,
+      "price": 8000000,
+      "diskon": 25,
+      "weight": 650,
+      "image1": "https://f1-styx.imgix.net/catalogue/NRA-404406.jpg?w=960&h=480&fit=fillmax&bg=ffffff&auto=format",
+      "image2": "https://f1-styx.imgix.net/catalogue/NRA-404406_8.jpg?w=280&h=140&fit=fillmax&bg=ffffff&auto=format",
+      "image3": "https://f1-styx.imgix.net/catalogue/NRA-404406_2.jpg?w=960&h=480&fit=fillmax&bg=ffffff&auto=format"
+    },
+    {
+      "id": 16,
+      "name": "Ranjang 1",
+      "brand": "Foshan",
+      "category": "Ranjang",
+      "stock": 25,
+      "price": 3000000,
+      "diskon": 15,
+      "weight": 550,
+      "image1": "https://f1-styx.imgix.net/catalogue/NRA-389816.JPG?w=960&h=480&fit=fillmax&bg=ffffff&auto=format",
+      "image2": "https://f1-styx.imgix.net/catalogue/NRA-389816_1.JPG?w=960&h=480&fit=fillmax&bg=ffffff&auto=format",
+      "image3": "https://f1-styx.imgix.net/catalogue/NRA-389816_4.JPG?w=280&h=140&fit=fillmax&bg=ffffff&auto=format"
+    },
+    {
+      "id": 17,
+      "name": "Ranjang 2",
+      "brand": "Ikea",
+      "category": "Ranjang",
+      "stock": 30,
+      "price": 4000000,
+      "diskon": 15,
+      "weight": 450,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/t/e/tempat_tidur_nuuk_9_copy_2.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/b/e/bed_4_1_4.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/r/a/ranjangk_nuuk_pd_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 18,
+      "name": "Ranjang 3",
+      "brand": "Preggo",
+      "category": "Ranjang",
+      "stock": 15,
+      "price": 7000000,
+      "diskon": 35,
+      "weight": 250,
+      "image1": "https://images.tokopedia.net/img/cache/100-square/product-1/2019/3/8/1977207/1977207_dfd535c2-6bf9-4c1b-90ca-0c7ef4aa32b1_884_884.jpg.webp?ect=4g",
+      "image2": "https://images.tokopedia.net/img/cache/100-square/product-1/2019/3/8/1977207/1977207_dfc33b1b-dfa0-4e47-9a78-6e6cf68c6c39_709_709.jpg.webp?ect=4g",
+      "image3": ""
+    },
+    {
+      "id": 19,
+      "name": "Ranjang 4",
+      "brand": "Foshan",
+      "category": "Ranjang",
+      "stock": 55,
+      "price": 5000000,
+      "diskon": 20,
+      "weight": 250,
+      "image1": "https://images.tokopedia.net/img/cache/100-square/product-1/2019/4/12/5464264/5464264_fc25ad83-097c-4670-ab4a-0046425dd0cb_1200_1200.jpg.webp?ect=4g",
+      "image2": "https://images.tokopedia.net/img/cache/100-square/product-1/2019/4/12/5464264/5464264_9a8b60e3-6c2c-4e61-8eef-0c26a05ae184_750_750.jpg.webp?ect=4g",
+      "image3": ""
+    },
+    {
+      "id": 20,
+      "name": "Ranjang 5",
+      "brand": "Preggo",
+      "category": "Ranjang",
+      "stock": 20,
+      "price": 4000000,
+      "diskon": 5,
+      "weight": 200,
+      "image1": "https://www.jeparaheritage.id/wp-content/uploads/2021/02/tempat-tidur-retro-minimalis-JH-ID-2104-100x100.jpg",
+      "image2": "https://www.jeparaheritage.id/wp-content/uploads/2021/02/tempat-tidur-retro-minimalis-JH-ID-2104-1-100x100.jpg",
+      "image3": "https://www.jeparaheritage.id/wp-content/uploads/2021/02/tempat-tidur-retro-minimalis-JH-ID-2104-2-100x100.jpg"
+    }
+  ],
+  "carts": [
+  ],
+  "transactions": [
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "cretedAt": "09-Mar-2021 11:00:16",
+      "total": 8500000,
+      "detail": [
+        {
+          "productName": "Sofa 2",
+          "productPrice": 2000000,
+          "productDiscount": 25,
+          "productQuantity": 3,
+          "productImage": "https://lh3.googleusercontent.com/u2I-y1Uk8ysHdJCzq48hgNgEiMJk5591t9Utupw7gx_SRM-sfyjoXxBxPm4axt7LJYp5hVslfXct0kGT88PHxzM8wzlUm9SuZr1W90F_qVjiyep8jBhz1s0XWLvt8qOgvnKhW18k"
+        },
+        {
+          "productName": "Sofa 5",
+          "productPrice": 2500000,
+          "productDiscount": 25,
+          "productQuantity": 1,
+          "productImage": "https://cdn11.bigcommerce.com/s-zllqv0a9td/images/stencil/1280w/attribute_rule_images/25638_source_1594813188.jpg"
+        }
+      ],
+      "id": 1,
+      "createdAt": "10-Mar-2021 11:26:48"
+    },
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "cretedAt": "09-Mar-2021 22:14:25",
+      "total": 2000000,
+      "detail": [
+        {
+          "productName": "Sofa 2",
+          "productPrice": 2000000,
+          "productDiscount": 25,
+          "productQuantity": 1,
+          "productImage": "https://lh3.googleusercontent.com/u2I-y1Uk8ysHdJCzq48hgNgEiMJk5591t9Utupw7gx_SRM-sfyjoXxBxPm4axt7LJYp5hVslfXct0kGT88PHxzM8wzlUm9SuZr1W90F_qVjiyep8jBhz1s0XWLvt8qOgvnKhW18k"
+        }
+      ],
+      "id": 2,
+      "createdAt": "09-Mar-2021 22:14:31"
+    },
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "cretedAt": "10-Mar-2021 11:28:58",
+      "total": 20500000,
+      "detail": [
+        {
+          "productName": "Sofa 3",
+          "productPrice": 3000000,
+          "productDiscount": 30,
+          "productQuantity": 1,
+          "productImage": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//109/MTA-8939791/modesty_sofa__kursi_sofa_minimalis_2_seater_retro_jumbo_full01_remcpfuv.jpg"
+        },
+        {
+          "productName": "Meja 3",
+          "productPrice": 2500000,
+          "productDiscount": 15,
+          "productQuantity": 7,
+          "productImage": "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/22/f063a565-1054-4698-9654-3a1ea15c4e97.jpg.webp?ect=4g"
+        }
+      ],
+      "id": 3,
+      "createdAt": "10-Mar-2021 11:31:45"
+    },
+    {
+      "idUser": "7",
+      "status": "Paid",
+      "cretedAt": "14-Mar-2021 00:09:31",
+      "total": 7000000,
+      "detail": [
+        {
+          "productName": "Sofa 2",
+          "productPrice": 2000000,
+          "productDiscount": 25,
+          "productQuantity": 2,
+          "productImage": "https://lh3.googleusercontent.com/u2I-y1Uk8ysHdJCzq48hgNgEiMJk5591t9Utupw7gx_SRM-sfyjoXxBxPm4axt7LJYp5hVslfXct0kGT88PHxzM8wzlUm9SuZr1W90F_qVjiyep8jBhz1s0XWLvt8qOgvnKhW18k"
+        },
+        {
+          "productName": "Sofa 3",
+          "productPrice": 3000000,
+          "productDiscount": 30,
+          "productQuantity": 1,
+          "productImage": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//109/MTA-8939791/modesty_sofa__kursi_sofa_minimalis_2_seater_retro_jumbo_full01_remcpfuv.jpg"
+        }
+      ],
+      "id": 4,
+      "createdAt": "14-Mar-2021 00:45:18"
+    }
+  ]
+}
